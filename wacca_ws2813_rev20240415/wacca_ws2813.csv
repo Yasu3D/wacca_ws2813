@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C9";"CP_EIA-7343-31_Kemet-D";1;"C";;;
+2;"D4,D5,D7,D6,D3,D2,D1,D8";"LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm";8;"WS2813";;;
+3;"R1,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"100";;;
+4;"C5,C8,C1,C3,C6,C7,C4,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";8;"100nF";;;
+5;"U2,U1";"TSOT-23_HandSoldering";2;"1503a";;;
+6;"H1";"MountingHole_3.2mm_M3";1;"M3";;;
+7;"CN3";"JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical";1;"JST XA 4p";;;
+8;"CN2,CN1";"JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical";2;"JST XA 3p";;;
